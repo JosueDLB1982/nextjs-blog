@@ -22,7 +22,7 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hola, soy Josue Lopez, aprendiz de desarrollador Next</p>
+        <p>Hola, mi nombre es Josue Lopez, aprendiz de desarrollador Next</p>
         <p>
           (Este es un sitio web de muestra, creado siguiendo este:{' '}
           <a href="https://nextjs.org/learn" className={utilStyles.listItem}>Tutorial Next.js </a>)
